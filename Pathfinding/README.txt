@@ -1,0 +1,1 @@
+In this project, I created a basic mechanic by having a character move to the position where the user clicks, and walk around obstacles in a single click rather than clicking multiple times around the obstacle.
