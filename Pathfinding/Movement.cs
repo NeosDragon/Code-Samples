@@ -17,6 +17,7 @@ public class Movement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //Casts a ray where mouse is clicked
         if(Input.GetMouseButtonDown(1))
         {
             //Sends Ray on where the user right clicks
