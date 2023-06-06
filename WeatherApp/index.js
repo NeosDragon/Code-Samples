@@ -37,6 +37,7 @@ search.addEventListener('click', () => {
             const wind = document.querySelector('.weather-details .wind span');
             
             //Shows image corresponding to weather of location
+            //Images are from flaticons.com
             switch (json.weather[0].main) {
                 case 'Clear':
                     image.src = 'images/clear.png';
