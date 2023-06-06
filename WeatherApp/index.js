@@ -8,7 +8,7 @@ const error404 = document.querySelector('.not-found');
 //Adds function to button when clicked
 search.addEventListener('click', () => {
 
-    const APIKey = '9c0a22e673da93fabc9962fdc0a9d40d';
+    const APIKey = 'Add own API Key';
     const city = document.querySelector('.search-box input').value;
 
     if (city === '')
